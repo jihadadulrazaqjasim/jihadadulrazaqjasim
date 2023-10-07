@@ -6,6 +6,13 @@
 I'm Jihad Abdulrazaq Jasim, a passionate software engineer specializing in Backend development. Currently, I'm fortunate to be a part of the dynamic team at Gateway ICT in Erbil, where I work on crafting robust and efficient web solutions.
 
 
+
+
+![Jihad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=stars)
+
+
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jihadadulrazaqjasim&show_icons=true&title_color=ffffff&icon_color=40E0D0&text_color=ffffff&bg_color=0d1117&layout=compact&card_width=450&border_color=78797c)](https://github.com/jihadadulrazaqjasim/jihadadulrazaqjasim)
 
 <br />
