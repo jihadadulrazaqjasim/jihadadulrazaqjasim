@@ -28,11 +28,15 @@ I have a deep-rooted passion for open-source projects. Contributing to the commu
 
 ### GitHub Stats
 
-![Jihad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihadabdulrazaqjasim&show_icons=true&count_private=true&hide=stars)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akamfoad&show_icons=true&title_color=ffffff&icon_color=40E0D0&text_color=ffffff&bg_color=0d1117&layout=compact&card_width=450&border_color=78797c)](https://github.com/akamfoad/akamfoad)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jihadabdulrazaqjasim&layout=compact)
+<br />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihadabdulrazaqjasim)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akamfoad&theme=bear&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFFFFF&background=0D1117&currStreakNum=FFFFFF)](https://github.com/akamfoad/akamfoad)
+
+<br />
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=akamfoad&&show_icons=true&title_color=e03c8a&icon_color=e03c8a&text_color=ffffff&bg_color=0d1117&border_color=78797c)](https://github.com/akamfoad/akamfoad)
 
 ### 📫 Let's Connect
 
