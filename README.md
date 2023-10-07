@@ -5,12 +5,20 @@
 I'm Jihad Abdulrazaq Jasim, a passionate software engineer specializing in Backend development. Currently, I'm fortunate to be a part of the dynamic team at Gateway ICT in Erbil, where I work on crafting robust and efficient web solutions.
 
 
+### 🚀 My Passion
+
+I have a deep-rooted passion for open-source projects. Contributing to the community-driven development ecosystem is where I find inspiration and fulfillment. I'm always on the lookout for exciting open-source initiatives to collaborate on and bring my skills to the table.
+
+**Open Source Contributions:** I actively seek opportunities to contribute to open-source projects that align with my interests and expertise. Whether it's coding, documentation, or providing support to the community, I'm eager to make a meaningful impact.
+
+
 ### 🚀 Techologies
 
 I thrive in the backend realm, where I've honed my skills working with a diverse set of technologies and tools, including:
 
 - **PHP**
-- **Laravel**
+- **Javascript**
+- **Laravel Framework**
 - **APIs (REST & SOAP)**
 - **Websockets**
 - **Testing (PHPUnit)**
@@ -20,7 +28,6 @@ I thrive in the backend realm, where I've honed my skills working with a diverse
 - **Docker**
 - **Mail Servers**
 - **Minio S3**
-
 
 ### GitHub Stats
 
@@ -33,9 +40,3 @@ I thrive in the backend realm, where I've honed my skills working with a diverse
 <br />
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jihadadulrazaqjasim&&show_icons=true&title_color=e03c8a&icon_color=e03c8a&text_color=ffffff&bg_color=0d1117&border_color=78797c)](https://github.com/jihadadulrazaqjasim/jihadadulrazaqjasim)
-
-### 📫 Let's Connect
-
-If you're interested in collaborating on a project, discussing the latest tech trends, or simply sharing insights, please don't hesitate to connect with me here on GitHub or reach out on other social platforms. Together, we can explore the boundless possibilities of software engineering!
-
-Thank you for visiting my GitHub profile, and I look forward to connecting with fellow developers and innovators in the tech world!
