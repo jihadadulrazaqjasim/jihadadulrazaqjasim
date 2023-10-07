@@ -7,25 +7,18 @@ I'm Jihad Abdulrazaq Jasim, a passionate software engineer specializing in Backe
 
 ### 🚀 Open Source Contributions
 
-**:** I actively seek opportunities to contribute to open-source projects that align with my interests and expertise. Whether it's coding, documentation, or providing support to the community, I'm eager to make a meaningful impact.
+I actively seek opportunities to contribute to open-source projects that align with my interests and expertise. Whether it's coding, documentation, or providing support to the community, I'm eager to make a meaningful impact.
 
 
 ### 🧑‍💻 Techologies
 
 I thrive in the backend realm, where I've honed my skills working with a diverse set of technologies and tools, including:
 
-- **PHP**
-- **Javascript**
-- **Laravel Framework**
-- **APIs (REST & SOAP)**
-- **Websockets**
-- **Testing (PHPUnit)**
-- **Database Magic (PostgreSQL & MySQL)**
-- **Redis**
-- **Elasticsearch & Kibana**
-- **Docker**
-- **Mail Servers**
-- **Minio S3**
+ - **PHP** , **Javascript**, **Laravel Framework** ,
+ - **Websockets** , **APIs (REST & SOAP)** , **Testing (PHPUnit)** ,
+ - **Redis Cache**, **Databases (PostgreSQL & MySQL)** ,
+ - **Elasticsearch & Kibana**, **Docker**
+ - **Mail Servers**, **Minio S3**
 
 ### GitHub Stats
 
