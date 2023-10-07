@@ -5,14 +5,12 @@
 I'm Jihad Abdulrazaq Jasim, a passionate software engineer specializing in Backend development. Currently, I'm fortunate to be a part of the dynamic team at Gateway ICT in Erbil, where I work on crafting robust and efficient web solutions.
 
 
-### 🚀 My Passion
+### 🚀 Open Source Contributions
 
-I have a deep-rooted passion for open-source projects. Contributing to the community-driven development ecosystem is where I find inspiration and fulfillment. I'm always on the lookout for exciting open-source initiatives to collaborate on and bring my skills to the table.
-
-**Open Source Contributions:** I actively seek opportunities to contribute to open-source projects that align with my interests and expertise. Whether it's coding, documentation, or providing support to the community, I'm eager to make a meaningful impact.
+**:** I actively seek opportunities to contribute to open-source projects that align with my interests and expertise. Whether it's coding, documentation, or providing support to the community, I'm eager to make a meaningful impact.
 
 
-### 🚀 Techologies
+### 🧑‍💻 Techologies
 
 I thrive in the backend realm, where I've honed my skills working with a diverse set of technologies and tools, including:
 
