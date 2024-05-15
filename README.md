@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Jihad Abdulrazaq Jasim, a passionate software engineer specializing in Backend development. Currently, I'm fortunate to be a part of the dynamic team at Gateway ICT in Erbil, where I work on crafting robust and efficient web solutions.
+I'm Jihad Abdulrazaq Jasim, a passionate software engineer specializing in Backend development. Currently, I'm fortunate to be a part of the dynamic team at Fastlink Telecom in Erbil, where I work on crafting robust and efficient web solutions.
 
 
 ### 🚀 Open Source Contributions
